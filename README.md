@@ -6,7 +6,7 @@ Simular sorteios da Mega-Sena até que seja alcançado o resultado esperado, inf
 1º Quantidade de números: 
 Escolher a quantidade de número por jogo sendo válido a escolha entre 6 e 20.
 
-2º Difinir as dezenas: 
+2º Definir as dezenas: 
 Escolher quaisquer números de 1 à 60, sem repetição
 
 3º Escolher quando parar: 
